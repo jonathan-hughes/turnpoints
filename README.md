@@ -10,9 +10,9 @@ hllstr20.cup - Hollister, CA turnpoint file based on Ramy's last update. This fi
 california.cup - Hollister, CA and Williams, CA databases combined. Same changes as above. 
 
 ### Ramy's 2020-04 Update:
-  Removed Priest Strip
-  Moved PriestField
-  Updated LostHills, RedHill, OldCanyon, Paicines
-  updated comments Los Banos, Patterson, NewJerusalem, Bird Strip, New Cuyama
-  added Huasna and Garey strips, Coit Ranch,Millux strip,Deepwell, Alfalfa field,Quen Sabe, Newman
-  added TP CerroBonito,CerroColorado,GriswoldMt
+  - Removed Priest Strip
+  - Moved PriestField
+  - Updated LostHills, RedHill, OldCanyon, Paicines
+  - updated comments Los Banos, Patterson, NewJerusalem, Bird Strip, New Cuyama
+  - added Huasna and Garey strips, Coit Ranch,Millux strip,Deepwell, Alfalfa field,Quen Sabe, Newman
+  - added TP CerroBonito,CerroColorado,GriswoldMt
