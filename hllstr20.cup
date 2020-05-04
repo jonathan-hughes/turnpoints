@@ -251,7 +251,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Palisades Rc",,,3442.733N,11721.050W,765.0m,1,,,,"1/19 38D",,
 "Palmdale AF",,,3437.767N,11805.067W,775.1m,2,0,0.0m,"04/22 120A","04/22 120A",,
 "PANOCHE",,,3636.633N,12053.117W,409.0m,3,0,0.0m,,"123.3",,
-"ParadiseFlat",,,3713.667N,12122.283W,365.8m,3,0,0.0m,,"strip",,
+"ParadiseFlat",,,3713.667N,12122.283W,365.8m,1,0,0.0m,,"strip",,
 "ParadiseLakes",,,3510.567N,11855.384W,102.1m,2,0,0.0m,"16/34 20S","16/34 20S",,
 "Paramount",,,3539.550N,11953.367W,191.1m,2,0,0.0m,"New good strip no aeroretrieve","New good strip no aeroretrieve",,
 "Parkfield",,,3553.533N,12025.900W,457.2m,3,0,0.0m,,"fields SW of town",,
